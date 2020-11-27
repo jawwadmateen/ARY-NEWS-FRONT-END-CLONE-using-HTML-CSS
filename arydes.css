@@ -1,0 +1,97 @@
+.one 
+{
+    width: 4%;
+    padding-left: 5%;
+    padding-right: 0%;
+    float: left;
+}
+ul {
+    list-style-type: none;
+    margin: 0 0 0 10%;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+  }
+  
+  li {
+    float: left;
+    padding-top: 2.5%;
+  }
+  
+  li a {
+
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 94%;
+    text-align: center;
+    padding:  0px 10px ;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  
+  .three
+  {
+      padding-left: 60%;
+      border-right-width: thick;
+      border-color: black;
+      
+  }
+  .four
+  {
+      padding-left: 60%;
+  }
+  .five
+  {
+      padding-left:60%;
+  }
+  .six
+  {
+    padding-left: 13%;
+    padding-right: 15%;
+    display: block;
+  }
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid rgb(185, 182, 182);
+    float: right;
+    width: 18%;
+    background-color: white;
+  }
+  
+  /* Style the submit button */
+  form.example button {
+    float: right;
+    width: 6%;
+    height: 8%;
+    padding: 13px 14px;
+    margin-right: 7%;
+    background-color: #000000;
+    color: white;
+    font-size: 14px;
+    border: 1px solid rgb(255, 255, 255);
+    cursor: pointer;
+  }
+  .seven
+  {
+    padding-left: 5%;
+    padding-right: 15%;
+    display: block;
+  }
+ .eight
+ {
+   margin-left: 38%;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 30px;
+ }
+.nine
+{
+  float: right;
+}
+.ten
+{
+  float:left;
+  width:600px;
+}
